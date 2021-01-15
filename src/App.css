@@ -3,4 +3,43 @@
     margin: 20px auto;
     width: 400px;
     text-align: center;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
 }
+
+.wrapper {
+    text-align: start;
+    padding: 10px 5px;
+    border-top: palevioletred 1px solid;
+}
+
+h1 {
+    padding: 10px 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+label {
+    padding-left: 20px;
+}
+
+.checkbox-input {
+    margin: 0 10px;
+}
+
+.delete {
+    float: right;
+    padding: 0 20px;
+    color: red;
+    cursor: pointer;
+}
+
+.add-todo {
+    margin: 10px 20px;
+    border: none;
+    padding: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
